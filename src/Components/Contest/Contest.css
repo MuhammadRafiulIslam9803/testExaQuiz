@@ -1,0 +1,6 @@
+.context-conteiner{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 15px;
+    padding: 20px;
+}

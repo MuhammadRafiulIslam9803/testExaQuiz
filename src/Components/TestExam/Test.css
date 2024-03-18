@@ -1,0 +1,17 @@
+.testStyle{
+    border: 1px solid darkolivegreen;
+    border-radius: 30px;
+}
+.testStyle img{
+    width: 60%;
+}
+.testStyle button {
+    width: 100%;
+    padding: 15px;
+    font-size: larger;
+    font-weight: 500;
+    color: whitesmoke;
+    background-color: rgb(183, 127, 58);
+    border-radius: 0  0 30px  30px;
+    border: 0;
+}

@@ -1,0 +1,28 @@
+.queston{
+
+    text-align: left;   
+    width: 95%;
+    margin: 0 auto;
+}
+.question-conteiner{
+    text-align: left;
+    padding: 30px;
+    border: 1px solid darkcyan;
+    margin: 0 auto;
+    border-radius: 20px;
+    width: 60%;
+}
+.correct-ans{
+    display: none;
+}
+.style-click{
+    display: block;
+}
+.btn-class button{
+  padding: 5px 15px;
+  margin-top: 5px;
+  border: 1px solid darkgoldenrod;
+  border-radius: 10px;
+  background-color: rgb(165, 106, 28);
+  color: aliceblue;
+}

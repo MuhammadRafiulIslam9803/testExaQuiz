@@ -1,0 +1,14 @@
+.styleForQuiz{
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.hStyle{
+    border: 1px solid darkgoldenrod;
+    background-color: rgb(160, 109, 28);
+    color: whitesmoke;
+    border-radius: 20px;
+    margin-top: 30px;
+}
